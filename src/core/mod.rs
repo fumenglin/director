@@ -1,2 +1,2 @@
 pub mod node;
-mod playbooks;
+pub mod playbooks;
